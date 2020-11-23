@@ -16,7 +16,7 @@ The environment contains the following main features,
 
 - Libpostal 
 
-- Python geospatial packages: GeoPandas, GeoPy, GeoAlchemy2, psycopg2, CARTOframes[develop]
+- Python geospatial packages: GeoPandas, GeoPy, GeoAlchemy2, psycopg2, CARTOframes [develop]
 
 
 ## Repository file structure
