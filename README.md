@@ -2,6 +2,22 @@
 
 ## What's in this repository
 
+The environment contains the following main features,
+
+- PostgreSQL 12
+
+- PostGIS 3.0.2
+
+- Python 3.8
+
+- Jupyter 
+
+- Libspatialindex
+
+- Libpostal 
+
+- Python geospatial packages: GeoPandas, GeoPy, GeoAlchemy2, psycopg2, CARTOframes[develop]
+
 
 ## Repository file structure
 
